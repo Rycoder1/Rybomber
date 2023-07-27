@@ -4,7 +4,7 @@
 
 ### Operating System Requirements
 
-sms-flooding works on any of the following operating systems:<br>
+Rybomber works on any of the following operating systems:<br>
 • **Android** (Using the Termux App) <br>
 • **Linux**  <br>
 
